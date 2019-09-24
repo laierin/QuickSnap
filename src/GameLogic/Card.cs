@@ -77,6 +77,8 @@ namespace CardGames.GameLogic
             return randomCard;
         }
 
+
+
         /// <summary>
         /// Allows you to read the value of the Card's rank.
         /// </summary>
