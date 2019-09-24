@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGames", "CardGames.csproj", "{871B5A90-103A-46A5-BBB9-07C02B9851D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D6EA99EB-4DBC-46B6-8E2B-47BBAFB884F9}"
+	ProjectSection(SolutionItems) = preProject
+		CardGames.sln = CardGames.sln
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug-Mac|x86 = Debug-Mac|x86
